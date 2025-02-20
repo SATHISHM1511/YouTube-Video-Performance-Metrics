@@ -1,0 +1,11 @@
+Video_ID,Title,Category,Views,Likes,Shares,Tags
+v1,Video A,Tech,12000,500,100,"tech, AI"
+v2,Video B,Tech,34000,1200,400,"gadgets, review"
+v3,Video C,Gaming,56000,2300,600,"gameplay, action"
+v4,Video D,Gaming,23000,800,250,
+v5,Video E,Education,45000,1900,700,"learning, science"
+v6,Video F,Education,29000,1100,350,
+v7,Video G,Tech,67000,2500,800,"innovation, AI"
+v8,Video H,Gaming,39000,1500,500,"multiplayer, fun"
+v9,Video I,Education,25000,900,320,"study, exams"
+v10,Video J,Gaming,48000,2200,750,"competitive, esports"

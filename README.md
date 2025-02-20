@@ -1,6 +1,4 @@
-# YouTube-Video-Performance-Metrics
-
-### **README: YouTube Video Performance Metrics Analysis**  
+# YouTube-Video-Performance-Metrics  
 
 #### **Project Overview**  
 This project analyzes YouTube video performance metrics, focusing on key engagement indicators such as views, likes, and shares. By handling missing values, summarizing statistical insights, and visualizing trends, the analysis helps content creators and marketers understand audience engagement patterns and optimize content strategies.  
